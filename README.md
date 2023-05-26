@@ -1,0 +1,2 @@
+# datamining_homework2
+这个是数据挖掘课程的第二个互评作业
